@@ -1,6 +1,3 @@
-Nama	: Fahrul Rozi
-NIM	: 22416255201017
-kelas	: IF22G
 
 SUB-CPMK-1
 
