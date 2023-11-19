@@ -1,0 +1,33 @@
+Nama	: Fahrul Rozi
+NIM	: 22416255201017
+kelas	: IF22G
+
+SUB-CPMK-1
+
+1.1 Apa yang diaksud dengan framework pada pengembangan aplikasi?
+(Jelaskan dengan bahasa yang mudah dimengerti bukan secara harfiah/ istilah)
+JAWAB: 
+Fremwork dalam pengembangan aplikasi adalah kumpulan kode program yang sudah di tulis sebelumnya yg sudah memiliki struktur dan aturan tertentu yg membuat proses pengembangan menjadi lebih mudah dan cepta , alih-alih membuat kode dari awal fremwork menyediakan fitur-fitur dasat seperti sistem login,pengaturan database dll. jadi kita hanya perlu fokus untuk fitur khusus yg di butuhkan aplikasi kita
+
+2.1 Sistem Pelaporan dan Pengarsipan Data DPMD (Berdaya Bersama)
+2.2 Willy Berliantino N.R 	 : laporan/desain uml
+    Sulton Hadi Fadilah		 : front-end
+    Rizal Waasil Yusron 	 : back-end
+
+2.3 permasalahan : Jadi Pada Kantor DPMD terdapat beberapa kendala pada proses pelayanan seperti,Pelaporan/Pengajuan Masyarakat Desa Dan Media Baca/Informasi Masyarakat.
+
+solusi : kita akan membuat sistem Pelaporan seperti contohnya :
+-Permohonan Bantuan atau Dukungan: Jika desa Anda membutuhkan bantuan atau dukungan dalam hal tertentu, seperti pembangunan infrastruktur atau pelatihan keahlian, Anda bisa mengajukan permohonan ke DPMD.
+
+-Pengajuan Proposal Program: Jika Anda memiliki program atau proyek yang bertujuan untuk memberdayakan masyarakat atau mengembangkan desa, Anda bisa mengajukan proposal program tersebut ke DPMD.
+
+-Permintaan Informasi: Jika Anda membutuhkan informasi tentang program atau kebijakan DPMD, Anda bisa mengajukan permintaan informasi.
+
+-Pengaduan atau Saran: Jika Anda memiliki pengaduan atau saran tentang program DPMD atau kondisi di desa Anda, Anda bisa mengajukannya ke DPMD.
+
+-Media Informasi untuk pengguna contohnya dapat mencakup informasi pelatihan yang sedang tersedia
+
+
+
+
+	
